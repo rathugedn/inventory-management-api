@@ -1,0 +1,8 @@
+{
+  "name": "John Doe",
+  "email": "john.doe@example.com",
+  "credit_card": "123456789012",
+  "dependencies": {
+    "pg": "^8.12.0"
+  }
+}
